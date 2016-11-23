@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Labb2.Animal">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAEAAAAAAACAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb2.Mammal">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAABAAgAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mammal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb2.Reptile">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAABAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reptile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb2.Bird">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAABAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb2.Dog">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <InheritanceLine Type="Labb2.Mammal" FixedToPoint="true">
+      <Path>
+        <Point X="2.5" Y="4.81" />
+        <Point X="2.5" Y="5.375" />
+        <Point X="1.25" Y="5.375" />
+        <Point X="1.25" Y="5.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAQAAAEAAAAAAAAA=</HashCode>
+      <FileName>Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb2.Monkey">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Monkey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb2.Snake">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb2.Lizzard">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAACAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Lizzard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb2.Parrot">
+    <Position X="8" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAEAAAAAABAA=</HashCode>
+      <FileName>Parrot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb2.Eagle">
+    <Position X="9.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAIAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Eagle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
